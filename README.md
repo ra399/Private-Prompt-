@@ -20,7 +20,7 @@ PrivatePrompt/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/koppolu-buddha-bhavan/PrivatePrompt.git
+git clone https://github.com/ra399/PrivatePrompt.git
 cd PrivatePrompt
 ```
 
